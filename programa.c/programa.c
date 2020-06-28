@@ -1,6 +1,5 @@
-#include<stdio.h>
-
-int main(){
+ 
+ int main(){
 
 int populacao [1000][3], i=0, codigo, eficacia, codigo1, cod;
 
