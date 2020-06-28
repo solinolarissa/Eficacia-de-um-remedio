@@ -1,2 +1,2 @@
 # Programa com a linguagem C
- Trabalho utilizando aiguagem c
+ Trabalho utilizando a liguagem c
